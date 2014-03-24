@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "MUOLint",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "A linter for MakeUseOf posts.",
+    "description": "The description of the application"
+  }
+}
