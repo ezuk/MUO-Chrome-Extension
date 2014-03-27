@@ -19,8 +19,7 @@
       "19": "images/icon-19.png",
       "38": "images/icon-38.png"
     },
-    "default_title": "MUOLint",
-    "default_popup": "popup.html"
+    "default_title": "MUOLint"
   },
   "content_scripts": [
     {
@@ -32,13 +31,13 @@
         "styles/main.css"
       ],
       "js": [
-        "scripts/contentscript.js"
+        "scripts/jquery-2.1.0.min.js"
       ],
-      "run_at": "document_end",
       "all_frames": false
     }
   ],
   "permissions": [
+    "activeTab",
     "tabs",
     "http://*/*",
     "https://*/*"

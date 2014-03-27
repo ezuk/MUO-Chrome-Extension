@@ -8,4 +8,7 @@ chrome.tabs.onUpdated.addListener(function (tabId) {
     chrome.pageAction.show(tabId);
 });
 
-console.log('\'Allo \'Allo! Event Page for Page Action');
+chrome.pageAction.onClicked.addListener(function(tab) {
+  console.log('Turning ' + tab.url + ' red!');
+  chrome.tabs.executeScript(null, {file: "scripts/lint_post.js"});
+});
