@@ -1,0 +1,947 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"temp",
+				"template_filename"
+			],
+			[
+				"Back",
+				"Browser_Back"
+			],
+			[
+				"Whee",
+				"WheelDown"
+			],
+			[
+				"post",
+				"post_meta"
+			],
+			[
+				"eli",
+				"eliminate_dupes"
+			],
+			[
+				"image_",
+				"image_number"
+			],
+			[
+				"out",
+				"output_filename"
+			],
+			[
+				"post_",
+				"post_processed"
+			],
+			[
+				"image",
+				"image_filename"
+			],
+			[
+				"pos",
+				"post_processed"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"apache",
+				"apache_modules"
+			],
+			[
+				"make",
+				"make_image_tag"
+			],
+			[
+				"app",
+				"app_topic"
+			],
+			[
+				"apps",
+				"apps_complex"
+			],
+			[
+				"editor-bo",
+				"editor-box-top"
+			]
+		]
+	},
+	"build_system": "Packages/MarkdownBuild/Markdown.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"tsb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"clea",
+				"Reg Replace: Clean Post"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ios",
+				"Reg Replace: iOS Markdown List"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"cle",
+				"Reg Replace: Clean Post"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"synta text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Emmet: Remove Tag"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rand",
+				"Random:float"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"xm",
+				"Set Syntax: XML"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"edit snipp",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"edit sni",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"reg",
+				"Reg Replace: RegEx Input Sequencer"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"cl",
+				"Convert Case: Lower Case"
+			],
+			[
+				"snippetm",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"wr",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"multim",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"clean",
+				"Reg Replace: Clean Post"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"span",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"commen",
+				"Toggle Block Comment"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"bes",
+				"Snippet: best-apps-record-snippet"
+			],
+			[
+				"snipp",
+				"Snippet: best-apps-record-snippet"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Erez-snippets"
+			],
+			[
+				"auto",
+				"Set Syntax: AutoHotkey"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"batc",
+				"Set Syntax: Batch File"
+			],
+			[
+				"batch",
+				"Set Syntax: Batch File"
+			],
+			[
+				"puppet",
+				"Set Syntax: Puppet"
+			],
+			[
+				"tog",
+				"View: Toggle Side Bar"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"block",
+				"Toggle Block Comment"
+			],
+			[
+				"sied",
+				"Snippet: if … end"
+			],
+			[
+				"synt rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"toggle si",
+				"View: Toggle Side Bar"
+			],
+			[
+				"toggle side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"user ",
+				"Preferences: Settings - User"
+			],
+			[
+				"th",
+				"Set Syntax: Haskell"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"rimg",
+				"Snippet: rimg"
+			],
+			[
+				"lim",
+				"Snippet: limg"
+			],
+			[
+				"rim",
+				"Snippet: rimg"
+			],
+			[
+				"limg",
+				"Snippet: limg"
+			],
+			[
+				"fimg",
+				"Snippet: fimg"
+			],
+			[
+				"wra ta",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"sh",
+				"Set Syntax: HTML"
+			],
+			[
+				"sht",
+				"Set Syntax: HTML"
+			],
+			[
+				"c",
+				"Reg Replace: Clean post"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"rege",
+				"Reg Replace: RegEx Input Sequencer"
+			],
+			[
+				"repla",
+				"Reg Replace: RegEx Input Sequencer"
+			],
+			[
+				"input",
+				"Reg Replace: RegEx Input Sequencer"
+			],
+			[
+				"clean po",
+				"Reg Replace: Clean post"
+			],
+			[
+				"comman",
+				"Preferences: Reg Replace Commands – Default"
+			],
+			[
+				"command ",
+				"Preferences: Reg Replace Commands – User"
+			],
+			[
+				"reg repl",
+				"Preferences: Reg Replace Commands – Default"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 456.0
+	},
+	"console":
+	{
+		"height": 188.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/My Files/Created/Code/MUO Chrome Extension/app/scripts/background.js",
+		"/D/My Files/Created/Today/raw post.htmj",
+		"/D/My Files/Created/Code/MUO Chrome Extension/app/manifest.json",
+		"/D/My Files/Created/Code/MUO Chrome Extension/app/scripts/lint_post.js",
+		"/D/My Files/Created/Today/make_page_red/background.js",
+		"/D/My Files/Created/Code/MUO Chrome Extension/app/scripts/popup.js",
+		"/D/My Files/Created/Today/make_page_red/manifest.json",
+		"/D/My Files/Created/Code/MUO Chrome Extension/app/scripts/contentscript.js",
+		"/D/My Files/Cloud Storage/Dropbox/Private/todo/weekly.todo",
+		"/D/My Files/Cloud Storage/Dropbox/Private/todo/next week.todo",
+		"/D/My Files/Created/Current Work/Playboard/AHK scripts/doubleclick-to-paste.ahk",
+		"/D/My Files/Created/Current Work/Playboard/140327, Remove non-reviews bookmarklet/bookmarklet.js",
+		"/D/My Files/Cloud Storage/Dropbox/MUO Temp/140327, Woodworking channels/woodworking channels.md",
+		"/D/My Files/Created/Today/eeeeeeeee",
+		"/D/My Files/Downloaded/Temp/mailFilters.xml",
+		"/D/My Files/Created/Today/appsales1",
+		"/D/My Files/Created/Current Work/MUO/apps on sale/140327.md",
+		"/D/My Files/Created/Today/oeinen",
+		"/D/My Files/Cloud Storage/Dropbox/Private/todo/template.todo",
+		"/D/My Files/Created/Today/umbrella.md",
+		"/D/My Files/Created/Code/MUO Chrome Extension/app/scripts/chromereload.js",
+		"/D/My Files/Cloud Storage/Dropbox/MUO Temp/140324, linkbubble/linkbubble.md",
+		"/D/My Files/Created/Today/eeeeeeeeeee.html",
+		"/D/My Files/Cloud Storage/Dropbox/MUO Temp/140319, Mi3/mi3 shot list.md",
+		"/D/My Files/Cloud Storage/Dropbox/Private/todo/140316-22.todo",
+		"/D/My Files/Cloud Storage/Dropbox/MUO Temp/140319, Mi3/mi3.md",
+		"/D/My Files/Cloud Storage/Dropbox/MUO Temp/140319, Mi3/mi3 VO text.md",
+		"/D/My Files/Cloud Storage/Dropbox/MUO Temp/140319, Mi3/mi3 VO.md",
+		"/C/Users/Erez/Dropbox/MUO Temp/140319, Mi3/mi3 shot list.md",
+		"/C/Users/Erez/Dropbox/MUO Temp/140319, Mi3/mi3 VO.md",
+		"/D/My Files/Cloud Storage/Dropbox/MUO Temp/140319, Bird Watching Apps/bird watching.md",
+		"/D/My Files/Cloud Storage/Dropbox/MUO Temp/140321, filming android/filming.md",
+		"/D/My Files/Created/Today/oiee.html",
+		"/D/My Files/Created/Today/appsales.md",
+		"/D/My Files/Created/Current Work/MUO/apps on sale/140320.md",
+		"/C/Users/Erez/Dropbox/MUO Temp/140319, Bird Watching Apps/bird watching.md",
+		"/C/Users/Erez/Dropbox/46204/clean-pt/logged-in.html",
+		"/D/My Files/Created/Current Work/MUO/vagrant/wordpress/wp-content/themes/makeuseof2014/styles/partials/_punchtab.scss",
+		"/D/My Files/Cloud Storage/Dropbox/46204/email/welcome(Erez) - Copy.html",
+		"/D/My Files/Cloud Storage/Dropbox/Private/todo/140309-15.todo",
+		"/D/My Files/Cloud Storage/Dropbox/MUO Temp/140314, JotterPad/aeneas.txt",
+		"/D/My Files/Cloud Storage/Dropbox/MUO Temp/140314, JotterPad/road not taken.txt",
+		"/D/My Files/Cloud Storage/Dropbox/MUO Temp/140309, Directory Opus/dopus.md",
+		"/D/My Files/Created/Current Work/MUO/vagrant/wordpress/wp-content/themes/makeuseof2014/js/social.js",
+		"/D/My Files/Created/Current Work/MUO/vagrant/wordpress/wp-config.php",
+		"/D/My Files/Created/Current Work/MUO/vagrant/Vagrantfile",
+		"/D/My Files/Created/Today/eeee.html",
+		"/D/My Files/Cloud Storage/Dropbox/Portable Software/Sublime Text/Data/Packages/User/reg_replace.sublime-settings",
+		"/D/My Files/Created/Today/ttt.md",
+		"/D/My Files/Created/Today/best-apps-changes.md",
+		"/C/ProgramData/CrashPlan/log/restart_1392193291501.log",
+		"/D/My Files/Created/Today/ienienoenoen",
+		"/D/My Files/Cloud Storage/Dropbox/46204/ezmast-0214/css/default.css",
+		"/D/My Files/Cloud Storage/Dropbox/46204/ezmast-0214/css/mast.css",
+		"/D/My Files/Cloud Storage/Dropbox/46204/ezmast-0214/css/custom/custom.css",
+		"/D/My Files/Cloud Storage/Dropbox/46204/ezmast-0214/logged-out.html",
+		"/D/My Files/Cloud Storage/Dropbox/46204/default/logged-out.html",
+		"/D/My Files/Created/Today/oenoienon",
+		"/D/My Files/Created/Code/nodemuse/bower_components/foundation/.bower.json",
+		"/C/Users/Erez/Dropbox/MUO Temp/coding language post.md",
+		"/D/My Files/Downloaded/Temp/md.txt",
+		"/D/My Files/Created/Code/nodemuse/scss/_settings.scss",
+		"/D/My Files/Created/Code/nodemuse/config.rb",
+		"/D/My Files/Created/Today/ieoenoen.html",
+		"/D/My Files/Created/Current Work/MUO/vagrant/wordpress/wp-content/.gitignore",
+		"/D/My Files/Created/Today/posss.html",
+		"/D/My Files/Cloud Storage/Dropbox/Private/todo/130201-08.todo",
+		"/D/My Files/Created/Today/oenoeinion.html",
+		"/C/Users/Erez/Dropbox/Private/todo/weekly.todo",
+		"/C/Users/Erez/Dropbox/Private/todo/next week.todo",
+		"/D/My Files/Cloud Storage/Dropbox/MUO Temp/140115, MinutesPad/minutespad.md",
+		"/D/My Files/Cloud Storage/Dropbox/MUO Temp/140115, MinutesPad/minutespad-1.png",
+		"/D/My Files/Created/Today/channel",
+		"/D/My Files/Created/Current Work/MUO/vagrant/files/etc/apache2/httpd.conf",
+		"/D/My Files/Created/Current Work/MUO/vagrant/files/etc/apache2/sites-available/default",
+		"/D/My Files/Created/Current Work/MUO/vagrant/puppet/modules/mysql/manifests/init.pp",
+		"/D/My Files/Cloud Storage/Dropbox/Portable Software/Sublime Text/Data/Packages/ToDone/ToDone.tmLanguage",
+		"/D/My Files/Cloud Storage/Dropbox/Portable Software/Sublime Text/Data/Packages/ToDone/ToDone.YAML-tmLanguage",
+		"/D/My Files/Cloud Storage/Dropbox/Portable Software/Sublime Text/Data/Packages/ToDone/readme.todo",
+		"/D/My Files/Cloud Storage/Dropbox/Portable Software/Sublime Text/Data/Packages/User/ToDone.sublime-settings",
+		"/D/My Files/Cloud Storage/Dropbox/Portable Software/Sublime Text/Data/Packages/ToDone/Settings/ToDone.sublime-settings",
+		"/D/My Files/Cloud Storage/Dropbox/Portable Software/Sublime Text/Data/Packages/User/Monokai_todone.hidden-tmTheme",
+		"/D/My Files/Cloud Storage/Dropbox/Portable Software/Sublime Text/Data/Packages/ToDone/Symbol List.tmPreferences",
+		"/D/My Files/Cloud Storage/Dropbox/Private/todo/layout.txt",
+		"/D/My Files/Cloud Storage/Dropbox/Private/todo/layout.todo",
+		"/D/My Files/Cloud Storage/Dropbox/todo/todo.txt",
+		"/D/My Files/Cloud Storage/Dropbox/weekly.todo",
+		"/D/My Files/Cloud Storage/Dropbox/Apps/LightPaper/weekly.todo",
+		"/D/My Files/Cloud Storage/Dropbox/Apps/Draft/weekly.TODO",
+		"/D/My Files/Cloud Storage/Dropbox/Portable Software/Sublime Text/Data/Packages/PlainTasks/messages/Tutorial.todo",
+		"/D/My Files/Cloud Storage/Dropbox/Portable Software/Sublime Text/Data/Packages/PlainTasks/PlainTasks (Windows).sublime-settings",
+		"/D/My Files/Cloud Storage/Dropbox/Portable Software/Sublime Text/Data/Packages/User/PlainTasks.sublime-settings",
+		"/D/My Files/Created/Current Work/MUO/vagrant/Vagrantfile.pkg",
+		"/D/My Files/Cloud Storage/Dropbox/Apps/Draft/130315, Important Habits for Long-Term Happiness.md",
+		"/D/My Files/Created/Today/4444.html",
+		"/D/My Files/Cloud Storage/Dropbox/Portable Software/Sublime Text/Data/Packages/User/Default.sublime-commands",
+		"/C/Users/Erez/Dropbox/startup/cofounder site/foundation-less/index.html",
+		"/C/Users/Erez/Dropbox/startup/cofounder site/foundation-less/scss/app.scss",
+		"/C/Users/Erez/Downloads/variables.less",
+		"/C/Users/Erez/Dropbox/startup/cofounder site/css/bootstrap-theme.css",
+		"/C/Users/Erez/Dropbox/startup/Fixed Top Navbar Example for Bootstrap.htm",
+		"/C/Users/Erez/Dropbox/startup/Starter Template for Bootstrap.htm",
+		"/C/Users/Erez/Documents/Today/initializr/css/main.css",
+		"/D/My Files/Cloud Storage/Dropbox/Portable Software/Sublime Text/Data/Packages/User/appsale.sublime-snippet",
+		"/D/My Files/Created/Current Work/MUO/apps on sale/131126.md",
+		"/D/My Files/Created/Code/pyMailMerge/pymailmerge.py",
+		"/D/My Files/Created/Code/pyMailMerge/vars.yaml",
+		"/C/Users/Erez/Code/flask-megatutorial/db_create.py",
+		"/C/Users/Erez/pip/pip.log",
+		"/C/Users/Erez/AppData/Local/Temp/dtemp-b0c9b07717156-20.dop/db_create.py",
+		"/D/My Files/Created/Current Work/Playboard/Reviews/131105, Roundup 3 relaxing channels/roundup-processed.md",
+		"/D/My Files/Created/Current Work/Playboard/Reviews/toSubmit, 131105,Pimm interview/pimm interview.md",
+		"/D/My Files/Created/Current Work/Playboard/Reviews/131029, Dead Trigger 2/deadtrigger-processed.md",
+		"/D/My Files/Created/Current Work/Playboard/Reviews/131029, Hungry Shark Evolution/hungryshark-processed.md",
+		"/D/My Files/Created/Current Work/Playboard/Reviews/131029, Ruzzle - Copy/ruzzle.md",
+		"/D/My Files/Created/Current Work/Playboard/Reviews/131029, Ruzzle - Copy/ruzzle-processed.md",
+		"/D/My Files/Created/Current Work/Playboard/Reviews/131029, Ruzzle/ruzzle-processed.md",
+		"/D/My Files/Created/Code/131027, pb parser in python/post-processed.md",
+		"/D/My Files/Created/Current Work/Playboard/Reviews/buildyaml.bat",
+		"/D/My Files/Created/Current Work/Playboard/Reviews/channel_roundup_featured.png",
+		"/D/My Files/Created/Current Work/Playboard/Reviews/131017, Little Galaxy/littlegalaxy-processed.md",
+		"/C/Users/Erez/vagrantee/httpd - original.conf",
+		"/C/Users/Erez/vagrantee/httpd.conf",
+		"/C/Users/Erez/vagrantee/puppet/modules/playboard/templates/apache/vhost.conf.erb",
+		"/C/Users/Erez/Documents/Today/Role.md",
+		"/D/My Files/Created/Today/non_enterprise_email.txt",
+		"/D/My Files/Created/Today/enterprise_users.txt",
+		"/D/My Files/Created/Today/nonenterprise_users.txt"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\My Files\\Created\\Current Work\\MUO\\vagrant\\wordpress\\wp-content",
+			"D:\\My Files\\Created\\Current Work\\MUO\\vagrant\\wordpress\\",
+			"D:\\My Files\\Created\\Current Work\\MUO\\vagrant\\wordpress\\*.*",
+			"D:\\My Files\\Created\\Current Work\\MUO\\vagrant\\wordpress\\wp-content\\",
+			"D:\\My Files\\Created\\Current Work\\MUO\\vagrant\\wordpress\\wp-content\\themes\\makeuseof2014\\",
+			"D:\\My Files\\Created\\Current Work\\MUO\\vagrant\\wordpress\\wp-content\\themes\\makeuseof2014\\*.js",
+			"D:\\My Files\\Created\\Current Work\\MUO\\vagrant\\wordpress\\wp-content\\themes\\makeuseof2014",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console.log",
+			"]);",
+			"* [",
+			" - YouTube",
+			".*(https://.*watch.*)\\)",
+			">",
+			"<strong>(<img.*)</strong>",
+			")",
+			"* ",
+			"https://www.y",
+			".*(https://www.youtube.com.*)\\)",
+			".*AppSales.*",
+			" - Android Apps on Google Play",
+			"&referrer=utm_source%3DAppSales%26utm_medium%3DBlog%26utm_campaign%3Dsale",
+			"&hl=en",
+			"&hl=en)",
+			".*id=",
+			"Umbrella",
+			"&mdash",
+			" &mdash ",
+			"&mdash",
+			"&.*\\)",
+			"&.\\)",
+			".*id=",
+			"<strong>(<img.*/>)</strong>",
+			"\n	",
+			"]**",
+			"**[",
+			" - Android Apps on Google Play",
+			"* ",
+			".*(https://www.youtube.com/watch.*)\\)",
+			".*AppSales.*",
+			"&referrer=utm_source%3DAppSales%26utm_medium%3DBlog%26utm_campaign%3Dsale",
+			".*AppSales.*",
+			"https://play.google.com/store/apps/details?id=",
+			"day",
+			"\n	",
+			"Switch",
+			"	",
+			"^//.*",
+			"<<<<",
+			"<<<<<<<",
+			"<<<<<<< HEAD",
+			"points:250",
+			"ptq",
+			"_ptq",
+			"_ptq.push",
+			"push",
+			"ptq_push",
+			"_trackEvent",
+			"’|‘",
+			"\\\"",
+			"title=\"\"",
+			".p",
+			".webp",
+			"2011/07/",
+			"xmx",
+			"OutOfMemoryError",
+			"\\)",
+			"\\?.*",
+			".*id",
+			"\\)",
+			"https://play.google.com/store/apps/details?",
+			"\\* \\[.*\\(",
+			"\\)",
+			")",
+			"&.*",
+			"https://play.google.com/store/apps/details?",
+			"\\?.*",
+			"\\* \\[.*\\(",
+			"gamification",
+			".facebook",
+			"\\)",
+			"\\* \\[.*\\]\\(.*id=",
+			"\n	",
+			"â€",
+			"â€™",
+			"Â ",
+			"round",
+			"\\)",
+			"\\?.*",
+			"\\* \\[.*\\]\\(.*id",
+			"Email",
+			"&hl=en",
+			"\\)",
+			"\\* \\[.*\\]\\(.*id=",
+			"\\* \\[.*\\]\\(.*id",
+			"=",
+			"\\)",
+			"&.*",
+			"\\* \\[.*\\]\\(.*id",
+			"\\?.*",
+			"\\* \\[.*\\]\\(.*id",
+			"Create",
+			"_punchtab",
+			"ptq",
+			"pt_",
+			"puncht",
+			"limit",
+			"puncht",
+			"limit",
+			"ptq.push",
+			"points:10",
+			"points:100",
+			"points:",
+			"'comment'",
+			"ptq.push",
+			"points:100",
+			"ptq.push",
+			"'points':100",
+			"h",
+			"https://play.google.com/store/apps/details?id=",
+			".*id",
+			"/?mt=8",
+			".*id",
+			"id",
+			"https://play.google.com/store/apps/details?id=",
+			"&hl=en",
+			"https://play.google.com/store/apps/details?id=",
+			"333",
+			"#666",
+			"	-",
+			"\n	",
+			"complete",
+			"day",
+			"if any",
+			"backsp",
+			"*"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n$1\\n",
+			"$1",
+			"",
+			"$1",
+			"",
+			"</a>",
+			"http://www.amazon.com/exec/obidos/ASIN/$1/hardware-muo-20",
+			"http://www.amazon.com/exec/obidos/ASIN/($1)/hardware-muo-20",
+			"Wi-Fi",
+			"",
+			">",
+			"",
+			"></p><p>bla bla</p><p><img",
+			"   ",
+			"/uploads/2012/09",
+			"",
+			" ",
+			"",
+			" ",
+			" &mdash; ",
+			"></p><p>bla bla</p><p><img",
+			" &mdash; ",
+			"",
+			"</p><p>bla bla</p><p>",
+			"></p><p><img",
+			"",
+			"&mdash;",
+			"Superuser",
+			"></p><p><",
+			"",
+			"manual route",
+			"JavaScript",
+			"Showyou",
+			"JavaScript",
+			" &ndash; ",
+			" &ndash;",
+			"",
+			"&ndash;",
+			"",
+			"Bluetooth",
+			"",
+			"heat-sink/fan",
+			"",
+			"<li>\\U$1",
+			"",
+			"Bluetooth",
+			" ",
+			"",
+			" ",
+			"$1",
+			"<img \\\\1",
+			" ",
+			"1",
+			"2",
+			"src=\"http://www.makeuseof.com/wp-content/uploads/2013/05/",
+			"\">",
+			"",
+			"<img class=\"aligncenter\" $1 >",
+			"",
+			"p",
+			"",
+			"$1",
+			"aligncenter",
+			"$1",
+			"/>",
+			"<img class=\"aligncenter\" $1 />",
+			" \"C:/xampp/apache/conf",
+			" C:\\xampp\\apache\\modules\\",
+			"$1",
+			"Wi-Fi",
+			"\"",
+			"'",
+			"<img class=\"aligncenter\" $1 />",
+			"<img class=\"align-right\" $1 />",
+			"\"",
+			"'",
+			" class=\"aligncenter\"",
+			"/>",
+			"src",
+			"...",
+			"\"",
+			"'",
+			"img class=\"aligncenter\" src",
+			"img class=\"aligncenter\" src ",
+			" ",
+			" s",
+			" ",
+			"",
+			"\"",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 172.0
+	},
+	"output.find_results":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"base.tpl",
+				"smarty/templates/base.tpl"
+			],
+			[
+				"histtpl",
+				"smarty/templates/history.tpl"
+			],
+			[
+				"histotp",
+				"smarty/templates/history.tpl"
+			],
+			[
+				"follow",
+				"smarty/templates/items/follow_us.tpl"
+			],
+			[
+				"wetpl",
+				"smarty/templates/editors_we_love.tpl"
+			],
+			[
+				".ht",
+				".htaccess"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true
+}
