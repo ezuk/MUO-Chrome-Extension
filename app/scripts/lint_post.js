@@ -3,13 +3,20 @@ var postText = $(".wp-editor-area").text();
 
 function lintPost(postText) {
 	var replacements = {
-		a : "4",
-		b : "BBBB"
-	}
+            "clean_image_tags": {
+                "find": "a",
+                "replace": "A",
+            },
+            "clean_apostrophes": {
+                "find": "b",
+                "replace": "BB"
+            }
+        }
 
-    for (var pattern in replacements) {
-      if (replacements.hasOwnProperty(pattern)) {
-		var postText = postText.replace(new RegExp(pattern,"gm"), replacements[pattern]);
+    for (var replacement in replacements) {
+      if (replacements.hasOwnProperty(replacement)) {
+      	console.log(replacement[find]); // TODO fix this... How do I get to the object under the object?
+		var postText = postText.replace(new RegExp(replacement.find,"g"), replacement.replace);
       }
     }
     return postText;
