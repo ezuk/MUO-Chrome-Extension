@@ -452,7 +452,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 456.0
+		"width": 400.0
 	},
 	"console":
 	{
@@ -469,10 +469,10 @@
 	},
 	"file_history":
 	[
-		"/D/My Files/Created/Today/testPost",
 		"/D/My Files/Created/Code/MUO Chrome Extension/app/scripts/background.js",
-		"/D/My Files/Created/Today/raw post.htmj",
 		"/D/My Files/Created/Code/MUO Chrome Extension/app/manifest.json",
+		"/D/My Files/Created/Today/testPost",
+		"/D/My Files/Created/Today/raw post.htmj",
 		"/D/My Files/Created/Code/MUO Chrome Extension/app/scripts/lint_post.js",
 		"/D/My Files/Created/Today/make_page_red/background.js",
 		"/D/My Files/Created/Code/MUO Chrome Extension/app/scripts/popup.js",
@@ -904,6 +904,10 @@
 		"selected_items":
 		[
 			[
+				"manifes",
+				"manifest.json"
+			],
+			[
 				"base.tpl",
 				"smarty/templates/base.tpl"
 			],
@@ -942,6 +946,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 50.0,
+	"side_bar_width": 353.0,
 	"status_bar_visible": true
 }

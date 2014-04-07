@@ -37,9 +37,6 @@
     }
   ],
   "permissions": [
-    "activeTab",
-    "tabs",
-    "http://*/*",
-    "https://*/*"
+    "webNavigation"
   ]
 }
