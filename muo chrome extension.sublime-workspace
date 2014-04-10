@@ -452,7 +452,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 456.0
+		"width": 400.0
 	},
 	"console":
 	{
@@ -470,9 +470,11 @@
 	"file_history":
 	[
 		"/D/My Files/Created/Code/MUO Chrome Extension/app/scripts/background.js",
-		"/D/My Files/Created/Today/raw post.htmj",
-		"/D/My Files/Created/Code/MUO Chrome Extension/app/manifest.json",
 		"/D/My Files/Created/Code/MUO Chrome Extension/app/scripts/lint_post.js",
+		"/D/My Files/Created/Code/MUO Chrome Extension/app/manifest.json",
+		"/D/My Files/Created/Code/MUO Chrome Extension/app/popup.html",
+		"/D/My Files/Created/Today/testPost",
+		"/D/My Files/Created/Today/raw post.htmj",
 		"/D/My Files/Created/Today/make_page_red/background.js",
 		"/D/My Files/Created/Code/MUO Chrome Extension/app/scripts/popup.js",
 		"/D/My Files/Created/Today/make_page_red/manifest.json",
@@ -594,9 +596,7 @@
 		"/C/Users/Erez/vagrantee/httpd.conf",
 		"/C/Users/Erez/vagrantee/puppet/modules/playboard/templates/apache/vhost.conf.erb",
 		"/C/Users/Erez/Documents/Today/Role.md",
-		"/D/My Files/Created/Today/non_enterprise_email.txt",
-		"/D/My Files/Created/Today/enterprise_users.txt",
-		"/D/My Files/Created/Today/nonenterprise_users.txt"
+		"/D/My Files/Created/Today/non_enterprise_email.txt"
 	],
 	"find":
 	{
@@ -622,6 +622,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ppostText",
 			"console.log",
 			"]);",
 			"* [",
@@ -748,8 +749,7 @@
 			"complete",
 			"day",
 			"if any",
-			"backsp",
-			"*"
+			"backsp"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -904,6 +904,10 @@
 		"selected_items":
 		[
 			[
+				"manifes",
+				"manifest.json"
+			],
+			[
 				"base.tpl",
 				"smarty/templates/base.tpl"
 			],
@@ -942,6 +946,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 262.0,
+	"side_bar_width": 353.0,
 	"status_bar_visible": true
 }
