@@ -470,6 +470,12 @@
 	"file_history":
 	[
 		"/D/My Files/Created/Code/MUO Chrome Extension/app/scripts/background.js",
+<<<<<<< HEAD
+=======
+		"/D/My Files/Created/Code/MUO Chrome Extension/app/manifest.json",
+		"/D/My Files/Created/Today/testPost",
+		"/D/My Files/Created/Today/raw post.htmj",
+>>>>>>> 3c099547485e9e52ead8dcad3955d49ca5a2aa3c
 		"/D/My Files/Created/Code/MUO Chrome Extension/app/scripts/lint_post.js",
 		"/D/My Files/Created/Code/MUO Chrome Extension/app/manifest.json",
 		"/D/My Files/Created/Code/MUO Chrome Extension/app/popup.html",
@@ -596,7 +602,12 @@
 		"/C/Users/Erez/vagrantee/httpd.conf",
 		"/C/Users/Erez/vagrantee/puppet/modules/playboard/templates/apache/vhost.conf.erb",
 		"/C/Users/Erez/Documents/Today/Role.md",
+<<<<<<< HEAD
 		"/D/My Files/Created/Today/non_enterprise_email.txt"
+=======
+		"/D/My Files/Created/Today/non_enterprise_email.txt",
+		"/D/My Files/Created/Today/enterprise_users.txt"
+>>>>>>> 3c099547485e9e52ead8dcad3955d49ca5a2aa3c
 	],
 	"find":
 	{
