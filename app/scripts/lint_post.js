@@ -82,6 +82,5 @@ function lintPost(postText) {
         
     return postText;
 };
-alert ("yyyy");
 var cleanPost = lintPost(postText);
 $(".wp-editor-area").val(cleanPost);
