@@ -157,28 +157,6 @@ module.exports = function (grunt) {
             css: ['<%= config.dist %>/styles/{,*/}*.css']
         },
 
-        // The following *-min tasks produce minifies files in the dist folder
-        imagemin: {
-            dist: {
-                files: [{
-                    expand: true,
-                    cwd: '<%= config.app %>/images',
-                    src: '{,*/}*.{gif,jpeg,jpg,png}',
-                    dest: '<%= config.dist %>/images'
-                }]
-            }
-        },
-
-        svgmin: {
-            dist: {
-                files: [{
-                    expand: true,
-                    cwd: '<%= config.app %>/images',
-                    src: '{,*/}*.svg',
-                    dest: '<%= config.dist %>/images'
-                }]
-            }
-        },
 
         htmlmin: {
             dist: {
@@ -201,31 +179,6 @@ module.exports = function (grunt) {
             }
         },
 
-        // By default, your `index.html`'s <!-- Usemin block --> will take care of
-        // minification. These next options are pre-configured if you do not wish
-        // to use the Usemin blocks.
-        // cssmin: {
-        //     dist: {
-        //         files: {
-        //             '<%= config.dist %>/styles/main.css': [
-        //                 '<%= config.app %>/styles/{,*/}*.css'
-        //             ]
-        //         }
-        //     }
-        // },
-        // uglify: {
-        //     dist: {
-        //         files: {
-        //             '<%= config.dist %>/scripts/scripts.js': [
-        //                 '<%= config.dist %>/scripts/scripts.js'
-        //             ]
-        //         }
-        //     }
-        // },
-        // concat: {
-        //     dist: {}
-        // },
-
         // Copies remaining files to places other tasks can use
         copy: {
             dist: {
@@ -235,27 +188,16 @@ module.exports = function (grunt) {
                     cwd: '<%= config.app %>',
                     dest: '<%= config.dist %>',
                     src: [
-                        '*.{ico,png,txt}',
-                        'images/{,*/}*.{webp,gif}',
+                        '*.{txt}',
+                        'images/{,*/}*.{webp,gif,ico,png}',
                         '{,*/}*.html',
                         'styles/{,*/}*.css',
                         'styles/fonts/{,*/}*.*',
                         '_locales/{,*/}*.json',
+                    	'scripts/*.js'
                     ]
                 }]
             }
-        },
-
-        // Run some tasks in parallel to speed up build process
-        concurrent: {
-            chrome: [
-            ],
-            dist: [
-                'imagemin',
-                'svgmin'
-            ],
-            test: [
-            ]
         },
 
         // Auto buildnumber, exclude debug files. smart builds that event pages
@@ -275,7 +217,7 @@ module.exports = function (grunt) {
             }
         },
 
-        // Compres dist files to package
+        // Compress dist files to package
         compress: {
             dist: {
                 options: {
@@ -307,13 +249,11 @@ module.exports = function (grunt) {
 
     grunt.registerTask('build', [
         'clean:dist',
+        'copy',
         'chromeManifest:dist',
         'useminPrepare',
-        'concurrent:dist',
-        'cssmin',
         'concat',
         'uglify',
-        'copy',
         'usemin',
         'compress'
     ]);
